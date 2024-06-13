@@ -1,0 +1,1 @@
+cmd_/home/user/work/lab3.linux_led/driver/led.ko := ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ld -EL -r  -T /home/user/work/rk3288_android/kernel/scripts/module-common.lds --build-id  -o /home/user/work/lab3.linux_led/driver/led.ko /home/user/work/lab3.linux_led/driver/led.o /home/user/work/lab3.linux_led/driver/led.mod.o
